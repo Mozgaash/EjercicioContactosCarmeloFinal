@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EjercicioContactosCarmelo</string>
+
+    <string name="ajustes">Ajustes</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="historial">HISTORIAL</string>
+    <string name="generarHistorial">Generar historial de contactos</string>
+    <string name="guardarContacto">Guardar último contacto añadido</string>
+    <string name="contactos">CONTACTOS</string>
+    <string name="razon">Se requiere acceso a los contactos para importarlos</string>
+    <string name="importar_contactos">Importar Contactos</string>
+    <string name="hintTextViewContactos">Aquí se mostrarán los contactos</string>
+    <string name="guardar_contactos_en_archivo">Guardar contactos en archivo</string>
+    <string name="cargar_archivo_con_contactos">Cargar Archivo con contactos</string>
+    <string name="interno">Interno</string>
+    <string name="privado">Privado</string>
+    <string name="csv">.csv</string>
+    <string name="seleccionar_lugar_de_almacenamiento">Seleccionar lugar de almacenamiento</string>
+    <string name="nombre_del_archivo">Nombre del archivo</string>
+    <string name="guardar_contactos">Guardar contactos</string>
+
+</resources>
